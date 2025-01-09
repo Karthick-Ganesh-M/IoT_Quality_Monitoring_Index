@@ -1,0 +1,26 @@
+
+
+DHT11 CONNECTION - (Temperature and Humidity Sensor)
+
+VCC Connected to 5V 
+GND Connected to GND
+DATA Connected to Pin 25 
+
+MQ135 - (Air Quality Sensor for NH3, CO2)
+
+VCC Connected to 5V
+GND Connected to GND
+Analog Output (AOUT) Connected to Pin 35 
+
+MQ7 - (Carbon Monoxide Sensor)
+
+VCC Connected to 5V
+GND Connected to GND
+Analog Output (AOUT) Connected to Pin 34 
+
+LCD - (16x2 with I2C Module)
+
+VCC Connected to 5V
+GND Connected to GND
+SDA Connected to Pin 21
+SCL Connected to Pin 22 
