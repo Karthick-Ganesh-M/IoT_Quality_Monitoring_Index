@@ -1,6 +1,6 @@
 # IoT_Quality_Monitoring_Index
 
-                                                   Air Quality Index Monitoring System
+                                                   🌬️Air Quality Index Monitoring System
                                                      
   The  Air Quality Index Monitoring System is an IoT-based project designed to continuously monitor atmospheric parameters such as temperature, humidity, air quality, and carbon monoxide levels. The system is built using an ESP32 microcontroller and utilizes multiple sensors for accurate environmental data acquisition. A 16x2 LCD with I2C module displays real-time readings, making it suitable for use in homes, labs, factories, and smart cities for air quality awareness and health safety.
 This project provides a foundation for real-time pollution detection and environmental condition tracking using low-cost, widely available components.
